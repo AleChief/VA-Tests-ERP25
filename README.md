@@ -1,3 +1,5 @@
+[<img src="https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg" alt="Инфостарт" height="28">](https://infostart.ru/public/2853513/) Статья на Инфостарте: [Тесты 1С как учебник для ИИ-агента: обновляем сценарии Vanessa Automation под новые релизы](https://infostart.ru/public/2853513/)
+
 # VA-Tests-ERP25
 Сценарный тест Vanessa Automation «Производство с планированием по материальным и производственным ресурсам»
 для конфигурации 1С:ERP Управление предприятием 2.5 (2.5.4.102 и выше).
